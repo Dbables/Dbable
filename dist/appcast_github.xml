@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>auto_updater_example</title>
+        <description>Most recent updates to auto_updater_example</description>
+        <language>en</language>
+<!--        <item>-->
+<!--            <title>Version 0.0.2</title>-->
+<!--            &lt;!&ndash; 对于 macOS 项目，建议将 'sparkle:version' 和 'sparkle:shortVersionString' 添加到项目节点中，而不是作为 'enclosure' 的一部分。 &ndash;&gt;-->
+<!--            <sparkle:version>2</sparkle:version>-->
+<!--            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>-->
+<!--            <sparkle:releaseNotesLink>-->
+<!--                https://your_domain/your_path/release_notes.html-->
+<!--            </sparkle:releaseNotesLink>-->
+<!--            <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>-->
+<!--            <enclosure url="http://localhost:5002/0.0.2/Dbable-windows-x86_64.exe"-->
+<!--                sparkle:edSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"-->
+<!--                sparkle:os="macos"-->
+<!--                length="46002952"-->
+<!--                type="application/octet-stream" />-->
+<!--        </item>-->
+        <item>
+            <title>Version 0.0.2</title>
+<!--            <sparkle:releaseNotesLink>-->
+<!--                http://localhost:5002/0.0.2/release_notes.html-->
+<!--            </sparkle:releaseNotesLink>-->
+            <description>
+                <![CDATA[
+            <ul>
+              <li>1、新增XX功能</li>
+              <li>2、新增XX功能</li>
+            </ul>
+                ]]>
+            </description>
+            <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/Dbables/Dbable/releases/download/0.0.2/Dbable-windows-x86_64.exe"
+                sparkle:dsaSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"
+                sparkle:version="0.0.2"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
