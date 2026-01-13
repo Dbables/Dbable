@@ -7,7 +7,7 @@
         <item>
             <title>Version 0.0.1</title>
             <!-- 对于 macOS 项目，建议将 'sparkle:version' 和 'sparkle:shortVersionString' 添加到项目节点中，而不是作为 'enclosure' 的一部分。 -->
-            <sparkle:version>2</sparkle:version>
+<!--            <sparkle:version>2</sparkle:version>-->
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                 https://github.com/Dbables/Dbable/releases
