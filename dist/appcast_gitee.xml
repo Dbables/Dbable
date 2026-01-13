@@ -10,7 +10,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
-                https://gitee.com/dbables/Dbable/releases/
+                https://gitee.com/dbables/dbable/releases/
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>
             <enclosure url="https://gitee.com/dbables/Dbable/releases/download/0.0.1/Dbable-windows-x86_64.exe"
