@@ -13,7 +13,7 @@
                 https://github.com/Dbables/Dbable/releases
             </sparkle:releaseNotesLink>
             <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
-            <enclosure url="https://gitee.com/dbables/Dbable/releases/download/0.0.2/Dbable-macos-arm64.dmg"
+            <enclosure url="https://github.com/Dbables/Dbable/releases/download/v0.0.2/Dbable-macos-arm64.dmg"
                        sparkle:edSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"
                        sparkle:os="macos"
                        length="46002952"
@@ -34,7 +34,7 @@
                 ]]>
             </description>
             <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
-            <enclosure url="https://github.com/Dbables/Dbable/releases/download/0.0.2/Dbable-windows-x86_64.exe"
+            <enclosure url="https://github.com/Dbables/Dbable/releases/download/v0.0.2/Dbable-windows-x86_64.exe"
                        sparkle:dsaSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"
                        sparkle:version="0.0.2"
                        sparkle:os="windows"
