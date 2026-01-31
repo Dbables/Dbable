@@ -5,36 +5,38 @@
         <description>Most recent updates to auto_updater_example</description>
         <language>en</language>
         <item>
-            <title>Version 0.0.1</title>
+            <title>Version 0.0.2</title>
             <!-- 对于 macOS 项目，建议将 'sparkle:version' 和 'sparkle:shortVersionString' 添加到项目节点中，而不是作为 'enclosure' 的一部分。 -->
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                 https://github.com/Dbables/Dbable/releases
             </sparkle:releaseNotesLink>
-            <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>
-            <enclosure url="https://gitee.com/dbables/Dbable/releases/download/0.0.1/Dbable-macos-arm64.dmg"
+            <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
+            <enclosure url="https://gitee.com/dbables/Dbable/releases/download/0.0.2/Dbable-macos-arm64.dmg"
                        sparkle:edSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"
                        sparkle:os="macos"
                        length="46002952"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 0.0.1</title>
+            <title>Version 0.0.2</title>
             <!--            <sparkle:releaseNotesLink>-->
             <!--                http://localhost:5002/0.0.1/release_notes.html-->
             <!--            </sparkle:releaseNotesLink>-->
             <description>
                 <![CDATA[
             <ul>
-              <li>v0.0.1</li>
+              <li>🚀 Features: Supported customized selection of databases to display; Added SQL editor tab closing behavior configuration.</li>
+              <li>⚡ Optimizations: Supported parallel execution for SQL files.</li>
+              <li>🐞 Bug Fixes: Fixed tree nodes search; Fixed real-time update issues; Fixed missing log displays; Fixed MySQL parsing error.</li>
             </ul>
                 ]]>
             </description>
-            <pubDate>Sun, 12 Jan 2026 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/Dbables/Dbable/releases/download/0.0.1/Dbable-windows-x86_64.exe"
+            <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
+            <enclosure url="https://github.com/Dbables/Dbable/releases/download/0.0.2/Dbable-windows-x86_64.exe"
                        sparkle:dsaSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"
-                       sparkle:version="0.0.1"
+                       sparkle:version="0.0.2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
