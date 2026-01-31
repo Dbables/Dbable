@@ -14,9 +14,9 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
             <enclosure url="https://gitee.com/dbables/dbable/releases/download/v0.0.2/Dbable-macos-arm64.dmg"
-                       sparkle:edSignature="75vxVJmjlp6KOwCbZQ2CPdtNfELKsOnvwaGhYox3cblj5cpFMQG26jtagotqoQWxI0Q0BdYV7WoIRyZ+soJzAg=="
+                       sparkle:edSignature="zrOHGb95AchITkEGGCrBDd6LlDl88osUjBMfnQTDf/fhhDktPViM005JdoV9/R//YC/REdR2xiLfsT1N/xjCAA=="
                        sparkle:os="macos"
-                       length="62857960"
+                       length="62857968"
                        type="application/octet-stream" />
         </item>
         <item>
