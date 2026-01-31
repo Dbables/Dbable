@@ -36,7 +36,7 @@
             <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
             <enclosure url="https://gitee.com/dbables/dbable/releases/download/v0.0.2/Dbable-windows-x86_64.exe"
                        sparkle:version="2"
-                       sparkle:shortVersionString="0.0.2+2"
+                       sparkle:shortVersionString="0.0.2"
                        sparkle:os="windows" length="46828053" type="application/octet-stream" edSignature="PiyV0crDAyhfddxbf9qEsS2vVV8oq5ECyHV2o7deFtNWS9wiPUpiMuQb0MIVc0tyTnfby33OGheusxvA/FrTDg==" />
         </item>
     </channel>
