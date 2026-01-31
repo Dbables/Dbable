@@ -7,7 +7,7 @@
         <item>
             <title>Version 0.0.2</title>
             <!-- 对于 macOS 项目，建议将 'sparkle:version' 和 'sparkle:shortVersionString' 添加到项目节点中，而不是作为 'enclosure' 的一部分。 -->
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                 https://gitee.com/dbables/Dbable/releases
@@ -35,11 +35,12 @@
             </description>
             <pubDate>Sat, 31 Jan 2026 23:52:27 +0800</pubDate>
             <enclosure url="https://gitee.com/dbables/dbable/releases/download/v0.0.2/Dbable-windows-x86_64.exe"
-                       sparkle:dsaSignature="MD0CHDRYPlrwG7xo4ir9ucRgkkTi3qgi7UMTnRcuymsCHQCpjBxr+SZ3fSqTRwR0MLGnDqkJDK1hAjHawN5t"
-                       sparkle:version="0.0.2"
+                       sparkle:version="2"
+                       sparkle:shortVersionString="0.0.2"
                        sparkle:os="windows"
-                       length="0"
-                       type="application/octet-stream" />
+                       length="46828053"
+                       type="application/octet-stream"
+                       edSignature="PiyV0crDAyhfddxbf9qEsS2vVV8oq5ECyHV2o7deFtNWS9wiPUpiMuQb0MIVc0tyTnfby33OGheusxvA/FrTDg==" />
         </item>
     </channel>
 </rss>
